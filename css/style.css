@@ -74,12 +74,12 @@ h1, h2, h3, h4, h5, h6{
 	font-size: 1.5rem;
 }
 #products{
-	background: #00000000;
+	background: #ddd;
 }
 
 .section-padding{
 	padding: 50px 0;
-	margin-bottom: 50px;
+	
 }
 
 .section-heading{
